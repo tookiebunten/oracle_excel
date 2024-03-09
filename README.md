@@ -8,4 +8,4 @@ The `oracle_excel_template` is a simple snippet that provides a convenient way t
 
 ## Features
 
-- Import data from Oracle databases into Excel spreadsheets
+- Import data from Oracle databases into Excel spreadsheets with some basic formatting of the header row and dates
