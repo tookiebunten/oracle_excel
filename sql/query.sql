@@ -1,3 +1,4 @@
 SELECT * 
 FROM your_table 
-WHERE date_column BETWEEN :date1 AND :date2
+WHERE date_column BETWEEN :start_date AND :end_date
+
